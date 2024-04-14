@@ -6,3 +6,6 @@ The purpose of this utility is to be able to use a procedural map generator to g
 
 The colors of the image will be mapped to tile IDs in a sprite map.
 
+Online at:
+
+https://greggirardin.github.io/TMG/index.html
